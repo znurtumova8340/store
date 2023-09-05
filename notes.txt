@@ -1,0 +1,4 @@
+Code for the lending page of the shopping website.
+npm init
+install express, --save-dev nodemon
+
