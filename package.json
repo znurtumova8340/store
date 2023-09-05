@@ -6,12 +6,12 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GiaI14/Shopping-site.git"
-  },
-  "author": "Gia I",
-  "license": "ISC",
+  // "repository": {
+  //   "type": "git",
+  //   "url": "git+https://github.com/GiaI14/Shopping-site.git"
+  // },
+  // "author": "Gia I",
+  // "license": "ISC",
   "bugs": {
     "url": "https://github.com/GiaI14/Shopping-site/issues"
   },
